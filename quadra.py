@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import sys
 
+print('QUADRATIC GRAPH')
 try:
     a = int(sys.argv[1])
     b = int(sys.argv[2])
